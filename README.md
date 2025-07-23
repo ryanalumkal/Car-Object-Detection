@@ -13,3 +13,7 @@ A convolutional neural network (CNN)-based deep learning model that predicts the
 ![Image 2](https://github.com/ryanalumkal/Car-Object-Detection/blob/main/Screenshot%202025-07-22%20132850.png)
 
 ![Image 3](https://github.com/ryanalumkal/Car-Object-Detection/blob/main/Screenshot%202025-07-22%20132901.png)
+
+# Future Plans
+
+Explore Faster R-CNNs
